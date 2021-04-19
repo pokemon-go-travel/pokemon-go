@@ -1,0 +1,162 @@
+.first {
+	text-align: center;
+	font-size: 35px;	
+}
+body{
+	background-image: url(pokemon.jpg);
+}
+.second{
+	text-align: center;
+
+}
+.tarif h2{
+	color: white;
+	font-size: 25px;
+	background-color: #20B2AA;
+	text-align: center;
+	border-radius: 10px;
+	height: 100px;
+	line-height: 100px;
+	margin: 0;
+}
+.tarif{
+	display: inline-block;
+	width: 20%;
+	margin: 0 30px;
+	text-align: center;
+	background-color: white;
+	border-radius: 10px;
+}
+.tarifBox{
+	text-align: center;
+}
+.tarif p{
+	padding: 15px 0;
+	border-bottom: 1px solid grey;
+	border-radius: 10px;
+}
+.tarif .price{
+	font-size: 30px;
+	font-weight: bold;
+	border-bottom: 1px solid lightgrey;
+
+}
+.tarif a{
+	background-color: white;
+	text-decoration: none;
+	border-radius: 15px;	
+	padding: 13px;
+	display: inline-block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+.tarif:hover h2{
+	background-color: #ffb4dc;
+}
+.tarif:hover a{
+	background-color: #ffb4dc;
+	color: white;
+}
+.four{
+	text-align: center;
+}
+.four a{
+	background-color: white;
+	text-decoration: none;
+	border-radius: 15px;	
+	padding: 13px;
+	display: inline-block;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: #20B2AA;
+}
+.four:hover a{
+	background-color: #ffb4dc;
+	color: white;
+}
+label{
+	display: block;
+	font-size: 20px;
+	color: black;
+}
+input{
+	display: inline-block;
+	width: 80%;
+	padding: 7px;
+	margin-bottom: 10px;
+	color: #ffb4dc;
+	text-align: center;
+}
+input[type=submit]{
+	background-color: #ffb4dc;
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 20px;
+}
+form{
+	text-align: center;
+}
+.pokemon img{
+	width: 400px;
+	text-align: center;
+}
+.pokemon{
+	display: inline-block;
+	text-align: center;
+}
+.four h2{
+	font-size: 40px;
+}
+.vk img{
+	width: 200px;
+}
+.vk{
+	text-align: center;
+	margin-top: 100px;
+}
+.vk a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+.vk h2{
+	font-size: 35px;
+	text-align: center;
+}
+.svyaz hr{
+	color: #20B2AA;
+	border: 2px solid #20B2AA;
+	border-radius: 4px;
+}
+.hrr hr{
+	margin-top: 300px;
+	margin-bottom: 100px;
+	color: #696969;
+	border: 2px solid #696969;
+	border-radius: 4px;
+}
+.hrr h2{
+	font-size: 30px;
+	color: #696969;
+}
+.hrr p{
+	color: #696969;
+}
+.support a{
+	color: #696969;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 5px;
+}
+.support img{
+	width: 60px;
+}
+.svyaz h2{
+	font-size: 40px;
+}
+.svyaz p{
+	font-size: 20px;
+}
